@@ -1,10 +1,10 @@
-# offenes-datenportal
+# Inoffizielles Offenes Datenportal für die Stadt Essen
 
 Hier sammeln wir zunächst Datensätze im CSV-Format.
 
 Quellenangabe für alle CSV-Dateien: Amt für Statistik, Stadtforschung und Wahlen der Stadt Essen.
 
-=Impressum=
+## Impressum
 Angaben gemäß § 5 TMG:
 Open Knowledge Foundation Deutschland e.V.
 Singerstraße 109
