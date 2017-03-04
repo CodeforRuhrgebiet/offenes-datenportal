@@ -6,8 +6,7 @@ Hier geht es zur Liste der CSV-Dateien: https://github.com/CodeforRuhrgebiet/off
 
 Die Daten sollen auf dem einfachen Portal nach und nach bereitgestellt werden: https://essen.openruhr.de/
 
-Quellenangabe für alle CSV-Dateien: Amt für Statistik, Stadtforschung und Wahlen der Stadt Essen.
-
+Quellenangabe für alle CSV-Dateien: Amt für Statistik, Stadtforschung und Wahlen der Stadt Essen.  
 
 ## Impressum
 ### Angaben gemäß § 5 TMG:
