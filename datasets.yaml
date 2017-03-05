@@ -131,6 +131,12 @@
     - freizeit
     - kultur
   source: Amt für Statistik, Stadtforschung und Wahlen der Stadt Essen
+- name: Vornamenstatistik für Geburten im Jahre 2016  
+  file: ./CSV_Files/vornamenstatistik2016.csv
+  tags:
+    - kinder
+    - bevölkerung
+  source: Amt für Statistik, Stadtforschung und Wahlen der Stadt Essen  
 - name: Wohnen in Essen Stand 31.12.2015
   file: ./CSV_Files/Wohnen_in_Essen_Stand_31_12_2015.csv
   tags:
