@@ -277,6 +277,76 @@
     - kinder
     - bevölkerung
   source: Amt für Statistik, Stadtforschung und Wahlen der Stadt Essen
+- name: Wanderungsbewegungen nach Stadtteil 2006
+  description: Dieser Datensatz enthält Zu- und Fortzüge in bzw. aus der Stadt sowie Wanderungsbewegungen zwischen den Stadtbezirken für das Jahr 2006. Die Bewegungen sind getrennt nach Stadtteilen ausgewiesen. "Zuzuege/Fortzuege" weist Wanderungsbewegungen in die Stadt (positive Zahl) bzw. aus der Stadt (negative Zahl) aus. "Umzuege_innerhalb_Stadtbezirk" weist Wanderungsbewegungen innerhalb eines Stadtbezirks aus. "Umzuege_in_andere_Stadtbezirke" weist Wanderungsbewegungen in Stadtteile eines anderen Stadtbezirks aus. In einzelnen Spalten können Werte fehlen. Der Grund ist in den amtlichen Veröffentlichungen leider nicht angegeben.
+  file: ./CSV_Files/wanderungsbewegungen_nach_stadtteil_2006.csv
+  tags:
+    - bevölkerung
+    - stadtteil
+  source: Amt für Statistik, Stadtforschung und Wahlen der Stadt Essen
+- name: Wanderungsbewegungen nach Stadtteil 2007
+  description: Dieser Datensatz enthält Zu- und Fortzüge in bzw. aus der Stadt sowie Wanderungsbewegungen zwischen den Stadtbezirken für das Jahr 2007. Die Bewegungen sind getrennt nach Stadtteilen ausgewiesen. "Zuzuege/Fortzuege" weist Wanderungsbewegungen in die Stadt (positive Zahl) bzw. aus der Stadt (negative Zahl) aus. "Umzuege_innerhalb_Stadtbezirk" weist Wanderungsbewegungen innerhalb eines Stadtbezirks aus. "Umzuege_in_andere_Stadtbezirke" weist Wanderungsbewegungen in Stadtteile eines anderen Stadtbezirks aus. In einzelnen Spalten können Werte fehlen. Der Grund ist in den amtlichen Veröffentlichungen leider nicht angegeben.
+  file: ./CSV_Files/wanderungsbewegungen_nach_stadtteil_2007.csv
+  tags:
+    - bevölkerung
+    - stadtteil
+  source: Amt für Statistik, Stadtforschung und Wahlen der Stadt Essen
+- name: Wanderungsbewegungen nach Stadtteil 2008
+  description: Dieser Datensatz enthält Zu- und Fortzüge in bzw. aus der Stadt sowie Wanderungsbewegungen zwischen den Stadtbezirken für das Jahr 2008. Die Bewegungen sind getrennt nach Stadtteilen ausgewiesen. "Zuzuege/Fortzuege" weist Wanderungsbewegungen in die Stadt (positive Zahl) bzw. aus der Stadt (negative Zahl) aus. "Umzuege_innerhalb_Stadtbezirk" weist Wanderungsbewegungen innerhalb eines Stadtbezirks aus. "Umzuege_in_andere_Stadtbezirke" weist Wanderungsbewegungen in Stadtteile eines anderen Stadtbezirks aus. In einzelnen Spalten können Werte fehlen. Der Grund ist in den amtlichen Veröffentlichungen leider nicht angegeben.
+  file: ./CSV_Files/wanderungsbewegungen_nach_stadtteil_2008.csv
+  tags:
+    - bevölkerung
+    - stadtteil
+  source: Amt für Statistik, Stadtforschung und Wahlen der Stadt Essen
+- name: Wanderungsbewegungen nach Stadtteil 2009
+  description: Dieser Datensatz enthält Zu- und Fortzüge in bzw. aus der Stadt sowie Wanderungsbewegungen zwischen den Stadtbezirken für das Jahr 2009. Die Bewegungen sind getrennt nach Stadtteilen ausgewiesen. "Zuzuege/Fortzuege" weist Wanderungsbewegungen in die Stadt (positive Zahl) bzw. aus der Stadt (negative Zahl) aus. "Umzuege_innerhalb_Stadtbezirk" weist Wanderungsbewegungen innerhalb eines Stadtbezirks aus. "Umzuege_in_andere_Stadtbezirke" weist Wanderungsbewegungen in Stadtteile eines anderen Stadtbezirks aus. In einzelnen Spalten können Werte fehlen. Der Grund ist in den amtlichen Veröffentlichungen leider nicht angegeben.
+  file: ./CSV_Files/wanderungsbewegungen_nach_stadtteil_2009.csv
+  tags:
+    - bevölkerung
+    - stadtteil
+  source: Amt für Statistik, Stadtforschung und Wahlen der Stadt Essen
+- name: Wanderungsbewegungen nach Stadtteil 2010
+  description: Dieser Datensatz enthält Zu- und Fortzüge in bzw. aus der Stadt sowie Wanderungsbewegungen zwischen den Stadtbezirken für das Jahr 2010. Die Bewegungen sind getrennt nach Stadtteilen ausgewiesen. "Zuzuege/Fortzuege" weist Wanderungsbewegungen in die Stadt (positive Zahl) bzw. aus der Stadt (negative Zahl) aus. "Umzuege_innerhalb_Stadtbezirk" weist Wanderungsbewegungen innerhalb eines Stadtbezirks aus. "Umzuege_in_andere_Stadtbezirke" weist Wanderungsbewegungen in Stadtteile eines anderen Stadtbezirks aus. In einzelnen Spalten können Werte fehlen. Der Grund ist in den amtlichen Veröffentlichungen leider nicht angegeben.
+  file: ./CSV_Files/wanderungsbewegungen_nach_stadtteil_2010.csv
+  tags:
+    - bevölkerung
+    - stadtteil
+  source: Amt für Statistik, Stadtforschung und Wahlen der Stadt Essen
+- name: Wanderungsbewegungen nach Stadtteil 2011
+  description: Dieser Datensatz enthält Zu- und Fortzüge in bzw. aus der Stadt sowie Wanderungsbewegungen zwischen den Stadtbezirken für das Jahr 2011. Die Bewegungen sind getrennt nach Stadtteilen ausgewiesen. "Zuzuege/Fortzuege" weist Wanderungsbewegungen in die Stadt (positive Zahl) bzw. aus der Stadt (negative Zahl) aus. "Umzuege_innerhalb_Stadtbezirk" weist Wanderungsbewegungen innerhalb eines Stadtbezirks aus. "Umzuege_in_andere_Stadtbezirke" weist Wanderungsbewegungen in Stadtteile eines anderen Stadtbezirks aus. In einzelnen Spalten können Werte fehlen. Der Grund ist in den amtlichen Veröffentlichungen leider nicht angegeben.
+  file: ./CSV_Files/wanderungsbewegungen_nach_stadtteil_2011.csv
+  tags:
+    - bevölkerung
+    - stadtteil
+  source: Amt für Statistik, Stadtforschung und Wahlen der Stadt Essen
+- name: Wanderungsbewegungen nach Stadtteil 2012
+  description: Dieser Datensatz enthält Zu- und Fortzüge in bzw. aus der Stadt sowie Wanderungsbewegungen zwischen den Stadtbezirken für das Jahr 2012. Die Bewegungen sind getrennt nach Stadtteilen ausgewiesen. "Zuzuege/Fortzuege" weist Wanderungsbewegungen in die Stadt (positive Zahl) bzw. aus der Stadt (negative Zahl) aus. "Umzuege_innerhalb_Stadtbezirk" weist Wanderungsbewegungen innerhalb eines Stadtbezirks aus. "Umzuege_in_andere_Stadtbezirke" weist Wanderungsbewegungen in Stadtteile eines anderen Stadtbezirks aus. In einzelnen Spalten können Werte fehlen. Der Grund ist in den amtlichen Veröffentlichungen leider nicht angegeben.
+  file: ./CSV_Files/wanderungsbewegungen_nach_stadtteil_2012.csv
+  tags:
+    - bevölkerung
+    - stadtteil
+  source: Amt für Statistik, Stadtforschung und Wahlen der Stadt Essen
+- name: Wanderungsbewegungen nach Stadtteil 2013
+  description: Dieser Datensatz enthält Zu- und Fortzüge in bzw. aus der Stadt sowie Wanderungsbewegungen zwischen den Stadtbezirken für das Jahr 2013. Die Bewegungen sind getrennt nach Stadtteilen ausgewiesen. "Zuzuege/Fortzuege" weist Wanderungsbewegungen in die Stadt (positive Zahl) bzw. aus der Stadt (negative Zahl) aus. "Umzuege_innerhalb_Stadtbezirk" weist Wanderungsbewegungen innerhalb eines Stadtbezirks aus. "Umzuege_in_andere_Stadtbezirke" weist Wanderungsbewegungen in Stadtteile eines anderen Stadtbezirks aus. In einzelnen Spalten können Werte fehlen. Der Grund ist in den amtlichen Veröffentlichungen leider nicht angegeben.
+  file: ./CSV_Files/wanderungsbewegungen_nach_stadtteil_2013.csv
+  tags:
+    - bevölkerung
+    - stadtteil
+  source: Amt für Statistik, Stadtforschung und Wahlen der Stadt Essen
+- name: Wanderungsbewegungen nach Stadtteil 2014
+  description: Dieser Datensatz enthält Zu- und Fortzüge in bzw. aus der Stadt sowie Wanderungsbewegungen zwischen den Stadtbezirken für das Jahr 2014. Die Bewegungen sind getrennt nach Stadtteilen ausgewiesen. "Zuzuege/Fortzuege" weist Wanderungsbewegungen in die Stadt (positive Zahl) bzw. aus der Stadt (negative Zahl) aus. "Umzuege_innerhalb_Stadtbezirk" weist Wanderungsbewegungen innerhalb eines Stadtbezirks aus. "Umzuege_in_andere_Stadtbezirke" weist Wanderungsbewegungen in Stadtteile eines anderen Stadtbezirks aus. In einzelnen Spalten können Werte fehlen. Der Grund ist in den amtlichen Veröffentlichungen leider nicht angegeben.
+  file: ./CSV_Files/wanderungsbewegungen_nach_stadtteil_2014.csv
+  tags:
+    - bevölkerung
+    - stadtteil
+  source: Amt für Statistik, Stadtforschung und Wahlen der Stadt Essen
+- name: Wanderungsbewegungen nach Stadtteil 2015
+  description: Dieser Datensatz enthält Zu- und Fortzüge in bzw. aus der Stadt sowie Wanderungsbewegungen zwischen den Stadtbezirken für das Jahr 2015. Die Bewegungen sind getrennt nach Stadtteilen ausgewiesen. "Zuzuege/Fortzuege" weist Wanderungsbewegungen in die Stadt (positive Zahl) bzw. aus der Stadt (negative Zahl) aus. "Umzuege_innerhalb_Stadtbezirk" weist Wanderungsbewegungen innerhalb eines Stadtbezirks aus. "Umzuege_in_andere_Stadtbezirke" weist Wanderungsbewegungen in Stadtteile eines anderen Stadtbezirks aus. In einzelnen Spalten können Werte fehlen. Der Grund ist in den amtlichen Veröffentlichungen leider nicht angegeben.
+  file: ./CSV_Files/wanderungsbewegungen_nach_stadtteil_2015.csv
+  tags:
+    - bevölkerung
+    - stadtteil
+  source: Amt für Statistik, Stadtforschung und Wahlen der Stadt Essen
 - name: Wohnen in Essen Stand 31.12.2015
   file: ./CSV_Files/Wohnen_in_Essen_Stand_31_12_2015.csv
   tags:
