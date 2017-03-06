@@ -1,8 +1,8 @@
-"Snr","Stadtteil","männlich","Weiblich","ehelich","nicht ehelich"
-"01","Stadtkern",13,17,.,.
+"Snr","Stadtteil","männlich","weiblich","ehelich","nicht ehelich"
+"01","Stadtkern",13,17,,
 "02","Ostviertel",39,41,48,32
 "03","Nordviertel",39,58,57,40
-"04","Westviertel",9,7,.,.
+"04","Westviertel",9,7,,
 "05","Südviertel",51,48,72,27
 "06","Südostviertel",76,75,86,65
 "11","Huttrop",59,60,86,33
@@ -44,8 +44,8 @@
 "44","Überruhr-Holthausen",19,22,29,12
 "48","Burgaltendorf",33,34,50,17
 "26","Bredeney",46,55,86,15
-"27","Schuir",.,.,6,3
+"27","Schuir",,,6,3
 "29","Werden",32,34,52,14
 "30","Heidhausen",19,19,33,5
-"42","Fischlaken",.,.,20,4
+"42","Fischlaken",,,20,4
 "49","Kettwig",58,62,94,26

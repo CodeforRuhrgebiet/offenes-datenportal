@@ -1,4 +1,4 @@
-"Snr","Stadtteil","männlich","Weiblich","ehelich","nicht ehelich"
+"Snr","Stadtteil","männlich","weiblich","ehelich","nicht ehelich"
 "01","Stadtkern",8,19,17,10
 "02","Ostviertel",33,39,38,34
 "03","Nordviertel",42,39,45,36
@@ -39,13 +39,13 @@
 "47","Leithe",18,33,34,17
 "31","Heisingen",59,47,91,15
 "32","Kupferdreh",36,49,64,21
-"33","Byfang",4,7,.,.
+"33","Byfang",4,7,,
 "43","Überruhr-Hinsel",22,25,32,15
 "44","Überruhr-Holthausen",30,32,48,14
-"48","Burgaltendorf",36,35,.,.
+"48","Burgaltendorf",36,35,,
 "26","Bredeney",36,38,58,16
-"27","Schuir",6,3,.,.
+"27","Schuir",6,3,,
 "29","Werden",42,33,58,17
 "30","Heidhausen",23,22,36,9
-"42","Fischlaken",18,15,.,.
+"42","Fischlaken",18,15,,
 "49","Kettwig",57,45,73,29

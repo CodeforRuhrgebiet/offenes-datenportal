@@ -1,4 +1,4 @@
-"Snr","Stadtteil","männlich","Weiblich","ehelich","nicht ehelich"
+"Snr","Stadtteil","männlich","weiblich","ehelich","nicht ehelich"
 "01","Stadtkern",27,23,38,12
 "02","Ostviertel",44,29,50,23
 "03","Nordviertel",33,50,59,24
@@ -14,8 +14,8 @@
 "07","Altendorf",134,121,176,79
 "08","Frohnhausen",163,148,214,97
 "09","Holsterhausen",110,104,150,64
-"15","Fulerum",7,15,.,.
-"28","Haarzopf",19,16,.,.
+"15","Fulerum",7,15,,
+"28","Haarzopf",19,16,,
 "41","Margarethenhöhe",17,19,29,7
 "16","Schönebeck",30,28,45,13
 "17","Bedingrade",29,31,48,12
@@ -39,8 +39,8 @@
 "47","Leithe",29,34,39,24
 "31","Heisingen",33,35,53,15
 "32","Kupferdreh",55,40,76,19
-"33","Byfang",.,.,.,.
-"43","Überruhr-Hinsel",.,.,.,.
+"33","Byfang",,,,
+"43","Überruhr-Hinsel",,,,
 "44","Überruhr-Holthausen",25,31,46,10
 "48","Burgaltendorf",29,33,51,11
 "26","Bredeney",39,43,62,20
