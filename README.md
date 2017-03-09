@@ -8,7 +8,7 @@ Hier geht es zur Meta-Liste der CSV-Dateien: https://github.com/CodeforRuhrgebie
 
 Alle Datensätze aus dieser Liste werden auf diesem einfachen (und inoffiziellen) Portal bereitgestellt, bis die Stadt Essen ein eigenes hat: https://essen.openruhr.de/
 
-Quellenangabe für alle CSV-Dateien: Amt für Statistik, Stadtforschung und Wahlen der Stadt Essen.    
+Quellenangabe für alle CSV-Dateien, wenn nicht anders angegeben: Amt für Statistik, Stadtforschung und Wahlen der Stadt Essen.    
 
 ## Neuen Datensatz hinzufügen
 
