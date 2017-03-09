@@ -254,6 +254,69 @@
     - sport
     - freizeit
   source: Amt für Statistik, Stadtforschung und Wahlen der Stadt Essen
+- name: Staatsangehörigkeit nach Stadtteil 2007
+  description: Dieser Datensatz enthält die Staatsangehörigkeit nach Stadtteilen. Es wird unterschieden zwischen nur deutscher, doppelter, oder nur ausländischer Staatsangehörigkeit. In einzelnen Spalten können Werte fehlen. Diese sind entweder nicht bekannt oder werden geheim gehalten werden.
+  file: ./CSV_Files/staatsangehoerigkeit_nach_stadtteil_2007.csv
+  tags:
+    - bevölkerung
+    - stadtteil
+  source: Amt für Statistik, Stadtforschung und Wahlen der Stadt Essen
+- name: Staatsangehörigkeit nach Stadtteil 2008
+  description: Dieser Datensatz enthält die Staatsangehörigkeit nach Stadtteilen. Es wird unterschieden zwischen nur deutscher, doppelter, oder nur ausländischer Staatsangehörigkeit. In einzelnen Spalten können Werte fehlen. Diese sind entweder nicht bekannt oder werden geheim gehalten werden.
+  file: ./CSV_Files/staatsangehoerigkeit_nach_stadtteil_2008.csv
+  tags:
+    - bevölkerung
+    - stadtteil
+  source: Amt für Statistik, Stadtforschung und Wahlen der Stadt Essen
+- name: Staatsangehörigkeit nach Stadtteil 2009
+  description: Dieser Datensatz enthält die Staatsangehörigkeit nach Stadtteilen. Es wird unterschieden zwischen nur deutscher, doppelter, oder nur ausländischer Staatsangehörigkeit. In einzelnen Spalten können Werte fehlen. Diese sind entweder nicht bekannt oder werden geheim gehalten werden.
+  file: ./CSV_Files/staatsangehoerigkeit_nach_stadtteil_2009.csv
+  tags:
+    - bevölkerung
+    - stadtteil
+  source: Amt für Statistik, Stadtforschung und Wahlen der Stadt Essen
+- name: Staatsangehörigkeit nach Stadtteil 2010
+  description: Dieser Datensatz enthält die Staatsangehörigkeit nach Stadtteilen. Es wird unterschieden zwischen nur deutscher, doppelter, oder nur ausländischer Staatsangehörigkeit. In einzelnen Spalten können Werte fehlen. Diese sind entweder nicht bekannt oder werden geheim gehalten werden.
+  file: ./CSV_Files/staatsangehoerigkeit_nach_stadtteil_2010.csv
+  tags:
+    - bevölkerung
+    - stadtteil
+  source: Amt für Statistik, Stadtforschung und Wahlen der Stadt Essen
+- name: Staatsangehörigkeit nach Stadtteil 2011
+  description: Dieser Datensatz enthält die Staatsangehörigkeit nach Stadtteilen. Es wird unterschieden zwischen nur deutscher, doppelter, oder nur ausländischer Staatsangehörigkeit. In einzelnen Spalten können Werte fehlen. Diese sind entweder nicht bekannt oder werden geheim gehalten werden.
+  file: ./CSV_Files/staatsangehoerigkeit_nach_stadtteil_2011.csv
+  tags:
+    - bevölkerung
+    - stadtteil
+  source: Amt für Statistik, Stadtforschung und Wahlen der Stadt Essen
+- name: Staatsangehörigkeit nach Stadtteil 2012
+  description: Dieser Datensatz enthält die Staatsangehörigkeit nach Stadtteilen. Es wird unterschieden zwischen nur deutscher, doppelter, oder nur ausländischer Staatsangehörigkeit. In einzelnen Spalten können Werte fehlen. Diese sind entweder nicht bekannt oder werden geheim gehalten werden.
+  file: ./CSV_Files/staatsangehoerigkeit_nach_stadtteil_2012.csv
+  tags:
+    - bevölkerung
+    - stadtteil
+  source: Amt für Statistik, Stadtforschung und Wahlen der Stadt Essen
+- name: Staatsangehörigkeit nach Stadtteil 2013
+  description: Dieser Datensatz enthält die Staatsangehörigkeit nach Stadtteilen. Es wird unterschieden zwischen nur deutscher, doppelter, oder nur ausländischer Staatsangehörigkeit. In einzelnen Spalten können Werte fehlen. Diese sind entweder nicht bekannt oder werden geheim gehalten werden.
+  file: ./CSV_Files/staatsangehoerigkeit_nach_stadtteil_2013.csv
+  tags:
+    - bevölkerung
+    - stadtteil
+  source: Amt für Statistik, Stadtforschung und Wahlen der Stadt Essen
+- name: Staatsangehörigkeit nach Stadtteil 2014
+  description: Dieser Datensatz enthält die Staatsangehörigkeit nach Stadtteilen. Es wird unterschieden zwischen nur deutscher, doppelter, oder nur ausländischer Staatsangehörigkeit. In einzelnen Spalten können Werte fehlen. Diese sind entweder nicht bekannt oder werden geheim gehalten werden.
+  file: ./CSV_Files/staatsangehoerigkeit_nach_stadtteil_2014.csv
+  tags:
+    - bevölkerung
+    - stadtteil
+  source: Amt für Statistik, Stadtforschung und Wahlen der Stadt Essen
+- name: Staatsangehörigkeit nach Stadtteil 2015
+  description: Dieser Datensatz enthält die Staatsangehörigkeit nach Stadtteilen. Es wird unterschieden zwischen nur deutscher, doppelter, oder nur ausländischer Staatsangehörigkeit. In einzelnen Spalten können Werte fehlen. Diese sind entweder nicht bekannt oder werden geheim gehalten werden.
+  file: ./CSV_Files/staatsangehoerigkeit_nach_stadtteil_2015.csv
+  tags:
+    - bevölkerung
+    - stadtteil
+  source: Amt für Statistik, Stadtforschung und Wahlen der Stadt Essen
 - name: Stadtteile Essen Bezirke
   file: ./CSV_Files/Stadtteile_Essen_Bezirke.csv
   tags:
@@ -348,14 +411,14 @@
     - stadtteil
   source: Amt für Statistik, Stadtforschung und Wahlen der Stadt Essen
 - name: Wohnen in Essen, Stand 31.12.2015
-  description: Dieser Datensatz enthält die Zahlen von Gebäuden und Wohnungen für alle Stadtbezirke. Die Zahlen sind auf Wohnungsgrößen (Anzahl Räume) heruntergebrochen. 
+  description: Dieser Datensatz enthält die Zahlen von Gebäuden und Wohnungen für alle Stadtbezirke. Die Zahlen sind auf Wohnungsgrößen (Anzahl Räume) heruntergebrochen.
   file: ./CSV_Files/Wohnen_in_Essen_Stand_31_12_2015.csv
   tags:
     - wohnen
     - bevölkerung
   source: Amt für Statistik, Stadtforschung und Wahlen der Stadt Essen
 - name: Fraktionen im Essener Rat
-  description: Dieser Datensatz führt die Ratsfraktionen mit Kontaktmailadresse auf. 
+  description: Dieser Datensatz führt die Ratsfraktionen mit Kontaktmailadresse auf.
   file: ./CSV_Files/fraktionen_2017_03.csv
   tags:
     - politik
