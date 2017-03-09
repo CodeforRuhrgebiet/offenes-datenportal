@@ -348,6 +348,7 @@
     - stadtteil
   source: Amt für Statistik, Stadtforschung und Wahlen der Stadt Essen
 - name: Wohnen in Essen Stand 31.12.2015
+  description: Dieser Datensatz enthält die Zahlen von Gebäuden und Wohnungen für alle Stadtbezirke. Die Zahlen auf Wohnungsgrößen (Anzahl Räume) heruntergebrochen. 
   file: ./CSV_Files/Wohnen_in_Essen_Stand_31_12_2015.csv
   tags:
     - wohnen
