@@ -347,10 +347,17 @@
     - bevölkerung
     - stadtteil
   source: Amt für Statistik, Stadtforschung und Wahlen der Stadt Essen
-- name: Wohnen in Essen Stand 31.12.2015
-  description: Dieser Datensatz enthält die Zahlen von Gebäuden und Wohnungen für alle Stadtbezirke. Die Zahlen auf Wohnungsgrößen (Anzahl Räume) heruntergebrochen. 
+- name: Wohnen in Essen, Stand 31.12.2015
+  description: Dieser Datensatz enthält die Zahlen von Gebäuden und Wohnungen für alle Stadtbezirke. Die Zahlen sind auf Wohnungsgrößen (Anzahl Räume) heruntergebrochen. 
   file: ./CSV_Files/Wohnen_in_Essen_Stand_31_12_2015.csv
   tags:
     - wohnen
     - bevölkerung
   source: Amt für Statistik, Stadtforschung und Wahlen der Stadt Essen
+  - name: Fraktionen im Essener Rat
+  description: Dieser Datensatz führt die Ratsfraktionen mit Kontaktmailadresse auf. 
+  file: ./CSV_Files/fraktionen_2017_03.csv
+  tags:
+    - politik
+    - rat
+  source: Umfangreiche Webrecherche, CC0.
