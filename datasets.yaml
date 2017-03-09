@@ -354,10 +354,10 @@
     - wohnen
     - bevölkerung
   source: Amt für Statistik, Stadtforschung und Wahlen der Stadt Essen
-  - name: Fraktionen im Essener Rat
+- name: Fraktionen im Essener Rat
   description: Dieser Datensatz führt die Ratsfraktionen mit Kontaktmailadresse auf. 
   file: ./CSV_Files/fraktionen_2017_03.csv
   tags:
     - politik
     - rat
-  source: Umfangreiche Webrecherche, CC0.
+  source: Umfangreiche Webrecherche - CC0.
