@@ -4,6 +4,8 @@ Hier finden alle Interessierten die Datensätze im CSV-Format. Die Daten wurden 
 
 Leider fällt die Stadt Essen gegenüber den benachbarten Kommunen Bochum, Mülheim, Gelsenkirchen und Moers, die bereits Offene Datenportale aufbauen, zurück. Aber wir arbeiten daran, dies zu ändern! :-)
 
+Information zur Entstehungsgeschichte und dem Hintergrund: https://github.com/CodeforRuhrgebiet/offenes-datenportal/blob/master/Information_Offenes_Datenportal_Essen.pdf
+
 Hier geht es zur Meta-Liste der CSV-Dateien: https://github.com/CodeforRuhrgebiet/offenes-datenportal/blob/master/datasets.yaml
 
 Alle Datensätze aus dieser Liste werden auf diesem einfachen (und inoffiziellen) Portal bereitgestellt, bis die Stadt Essen ein eigenes hat: https://essen.openruhr.de/
