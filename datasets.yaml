@@ -431,7 +431,7 @@
     - arbeit
     - bevölkerung
   source: Amt für Statistik, Stadtforschung und Wahlen der Stadt Essen
-- name: Schulen nach Schulform, Anzahl SchüerInnen 2015
+- name: Schulen nach Schulform und Anzahl SchülerInnen 2015
   description: Kleine Übersicht: Anzahl der Schulen und jeweils Anzahl der SchülerInnen.
   file: ./CSV_Files/Schulen_nach_Form_Stand2015_10_15.csv
   tags:
