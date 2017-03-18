@@ -424,3 +424,10 @@
     - politik
     - rat
   source: Umfangreiche Webrecherche - CC0.
+- name: Beschäftigte im tertiären Sektor in Essen, Stand 31.12.2015
+  description: Kleine Tabelle, die den Anteil der tertiär Beschäftigten in Essen in ausgewählten Jahren darstellt.
+  file: ./CSV_Files/Beschaeftigte_Tertiaerer_Sektor_1951-2015.csv
+  tags:
+    - arbeit
+    - bevölkerung
+  source: Amt für Statistik, Stadtforschung und Wahlen der Stadt Essen
