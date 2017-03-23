@@ -438,7 +438,7 @@
     - schule
     - bildung
   source: Amt für Statistik, Stadtforschung und Wahlen der Stadt Essen
-- name: "Ärzte mit Kassenzulassung nach Stadtteil, Stand: 2015-12-31"
+- name: "Kassenärzte nach Stadtteil, Stand: 2015-12-31"
   description: Die Tabelle führt Ärzte und anteilig Allgemeinmediziner und Kinderärzte pro Stadtteil auf.
   file: ./CSV_Files/Aerzte_mit_Kassenzulassung_nach_Stadtteil_2015_12_31.csv
   tags:
