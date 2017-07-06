@@ -72,7 +72,17 @@
   file: ./CSV_Files/Bibliotheken_Entleihungen_2015.csv
   tags:
     - bibliothek
-  source: Amt für Statistik, Stadtforschung und Wahlen der Stadt Essen
+source: Amt für Statistik, Stadtforschung und Wahlen der Stadt Essen
+- name: Blitzerstandorte in Essen, KW 26 2017
+  file: ./CSV_Files/blitzerstandorte_KW26_2017.csv
+  tags:
+    - verkehr
+  source: Ordnungsamt der Stadt Essen
+- name: Blitzerstandorte in Essen, KW 27 2017
+  file: ./CSV_Files/blitzerstandorte_KW27_2017.csv
+  tags:
+    - verkehr
+  source: Ordnungsamt der Stadt Essen
 - name: FOM Wintersemester 1998-2015
   file: ./CSV_Files/FOM_Wintersemester_1998_2015.csv
   tags:
@@ -444,4 +454,3 @@
   tags:
     - ärzte
   source: Amt für Statistik, Stadtforschung und Wahlen der Stadt Essen
-  
