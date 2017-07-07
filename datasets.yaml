@@ -72,7 +72,7 @@
   file: ./CSV_Files/Bibliotheken_Entleihungen_2015.csv
   tags:
     - bibliothek
-source: Amt für Statistik, Stadtforschung und Wahlen der Stadt Essen
+  source: Amt für Statistik, Stadtforschung und Wahlen der Stadt Essen
 - name: Blitzerstandorte in Essen, KW 26 2017
   file: ./CSV_Files/blitzerstandorte_KW26_2017.csv
   tags:
